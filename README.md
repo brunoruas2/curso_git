@@ -33,8 +33,8 @@ ou
 - Item
 
 # Lista de Tarefas:
-- [] Item não feito
-- [x] Item feito
+-[] Item não feito
+-[x] Item feito
 
 # Imagem:
 ![Isso aqui é uma imagem] (https://octodex.github.com/images/Fintechtocat.png)
