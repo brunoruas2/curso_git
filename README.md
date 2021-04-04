@@ -37,10 +37,10 @@ ou
 - [x] Item feito
 
 # Imagem:
-![Isso aqui é uma imagem] (https://octodex.github.com/images/Fintechtocat.png)
+![Isso aqui é uma imagem](https://octodex.github.com/images/Fintechtocat.png)
 
 # Link:
-[Isso é um link] (https://github.com/brunoruas2/curso_git)
+[Isso é um link](https://github.com/brunoruas2/curso_git)
 
 
 # Tabelas:
