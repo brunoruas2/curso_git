@@ -1,2 +1,2 @@
-# curso_git
- Material do Curso em Video do Prof. Guanabara
+# Curso de git e GitHub
+ Material do Curso em Video do Prof. Gustavo Guanabara
